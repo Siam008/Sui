@@ -1,0 +1,8 @@
+# Sui
+# https://tea.xyz/what-is-this-file --- version: 1.0.0 codeOwners:   - '0x25064c0881bdbbC108CF87118A9C2ef66E580610' quorum: 1
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x25064c0881bdbbC108CF87118A9C2ef66E580610'
+quorum: 1
